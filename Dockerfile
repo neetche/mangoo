@@ -12,4 +12,4 @@ WORKDIR /
 
 COPY --from=builder /Mango/mango /usr/local/bin/mango
 
-CMD ["/usr/local/bin/mango"]
+CMD ["/usr/local/bin/mango"] --bind 0.0.0.0:$PORT
