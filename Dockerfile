@@ -12,4 +12,4 @@ WORKDIR /
 EXPOSE $PORT
 COPY --from=builder /Mango/mango /usr/local/bin/mango
 
-CMD ["/usr/local/bin/mango"]
+CMD -p ${PORT:-3000} "/usr/local/bin/mango"
