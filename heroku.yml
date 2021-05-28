@@ -2,5 +2,5 @@ build:
   docker:
     web: Dockerfile
     worker: Dockerfile
-server:
-    port: $PORT
+      server:
+        port: $PORT
