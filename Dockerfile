@@ -9,7 +9,7 @@ RUN make static || make static
 FROM library/alpine
 
 WORKDIR /
-
+EXPOSE $PORT
 COPY --from=builder /Mango/mango /usr/local/bin/mango
 
 CMD ["/usr/local/bin/mango"]
