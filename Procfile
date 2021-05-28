@@ -1,1 +1,1 @@
-web: bundle exec puma -p ${PORT:-3000}
+web: bundle exec alpine -p ${PORT:-3000}
