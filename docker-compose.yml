@@ -9,7 +9,7 @@ services:
     expose:
       - ${PORT}
     ports:
-      - "${PORT}:$port"
+      - "${PORT}:9000"
     volumes:
       - ${MAIN_DIRECTORY_PATH}:/root/mango
       - ${CONFIG_DIRECTORY_PATH}:/root/.config/mango
