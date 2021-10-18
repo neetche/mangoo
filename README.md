@@ -152,33 +152,8 @@ Mobile UI:
 
 ## Sponsors
 
-<a href="https://casinoshunter.com/online-casinos/"><img src="https://i.imgur.com/EJb3wBo.png" width="150" height="auto"></a>
-<a href="https://www.browserstack.com/open-source"><img src="https://i.imgur.com/hGJUJXD.png" width="150" height="auto"></a>
+<a href="https://casinoshunter.com/online-casinos/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.guyhepner.com%2Fwp-content%2Fuploads%2F2015%2F05%2FOnly-way-out-is-In-.png&f=1&nofb=1" width="150" height="auto"></a>
+<a href="https://www.browserstack.com/open-source"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.guyhepner.com%2Fwp-content%2Fuploads%2F2015%2F05%2FOnly-way-out-is-In-.png&f=1&nofb=1" width="150" height="auto"></a>
 
 ## Contributors
-
-Please check the [development guideline](https://github.com/hkalexling/Mango/wiki/Development) if you are interested in code contributions.
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/hkalexling/"><img src="https://avatars1.githubusercontent.com/u/7845831?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex Ling</b></sub></a><br /><a href="https://github.com/hkalexling/Mango/commits?author=hkalexling" title="Code">💻</a> <a href="https://github.com/hkalexling/Mango/commits?author=hkalexling" title="Documentation">📖</a> <a href="#infra-hkalexling" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-    <td align="center"><a href="https://github.com/jaredlt"><img src="https://avatars1.githubusercontent.com/u/8590311?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jaredlt</b></sub></a><br /><a href="https://github.com/hkalexling/Mango/commits?author=jaredlt" title="Code">💻</a> <a href="#ideas-jaredlt" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-jaredlt" title="Design">🎨</a></td>
-    <td align="center"><a href="https://windisco.com/"><img src="https://avatars1.githubusercontent.com/u/4946624?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ココロ</b></sub></a><br /><a href="#infra-shincurry" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-    <td align="center"><a href="https://catgirlsin.space/"><img src="https://avatars0.githubusercontent.com/u/13433513?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Valentijn</b></sub></a><br /><a href="#infra-noirscape" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-    <td align="center"><a href="https://github.com/flying-sausages"><img src="https://avatars1.githubusercontent.com/u/23618693?v=4?s=100" width="100px;" alt=""/><br /><sub><b>flying-sausages</b></sub></a><br /><a href="https://github.com/hkalexling/Mango/commits?author=flying-sausages" title="Documentation">📖</a> <a href="#ideas-flying-sausages" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/XavierSchiller"><img src="https://avatars1.githubusercontent.com/u/22575255?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xavier</b></sub></a><br /><a href="#infra-XavierSchiller" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-    <td align="center"><a href="https://github.com/WROIATE"><img src="https://avatars3.githubusercontent.com/u/44677306?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jarao</b></sub></a><br /><a href="#infra-WROIATE" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Leeingnyo"><img src="https://avatars0.githubusercontent.com/u/6760150?v=4?s=100" width="100px;" alt=""/><br /><sub><b>이인용</b></sub></a><br /><a href="https://github.com/hkalexling/Mango/commits?author=Leeingnyo" title="Code">💻</a></td>
-    <td align="center"><a href="http://h45h74x.eu.org"><img src="https://avatars1.githubusercontent.com/u/27204033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simon</b></sub></a><br /><a href="https://github.com/hkalexling/Mango/commits?author=h45h74x" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/davidkna"><img src="https://avatars.githubusercontent.com/u/835177?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Knaack</b></sub></a><br /><a href="#infra-davidkna" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+For all the kindness mankind gould eject, for all the fun the hell could conjure, weev'll Send only \u. Send & Sync, until|u|done.
