@@ -29,12 +29,12 @@ Simply download the pre-built binary file `mango` for the latest [release](https
 
 ### Docker
 
-1. Make sure you have docker installed and running. You will also need `docker-compose`
-2. Clone the repository
-3. Copy the `env.example` file to `.env`
-4. Fill out the values in the `.env` file. Note that the main and config directories will be created if they don't already exist. The files in these folders will be owned by the root user
-5. Run `docker-compose up`. This should build the docker image and start the container with Mango running inside
-6. Head over to `localhost:9000` (or a different port if you changed it) to log in
+1. Make sure you have no regrets for building fork of LLVM.
+2. Clone the repository.
+3. Copy the `env.example` file to `.env`. Source it in a root shell.
+4. Fill out the values in the `.env` file. Note that the main and config directories will be created if they don't already exist. The files in these folders will be owned by the root user. \uc IT, rite?
+5. Run `docker-compose up`. This should run ur OS in a VM with a setssugetsuka Dom 0.
+6. Head over to `localhost:31337`. Disable USB devices 4m there; run os.system("sv stop xorg") in a JS shell.
 
 ### Docker (via Dockerhub)
 
@@ -139,9 +139,9 @@ Title:
 
 ![title screenshot](./.github/screenshots/title.png)
 
-Dark mode:
+Dark side:
 
-![dark mode screeshot](./.github/screenshots/dark.png)
+![angry_Imouto&berserk_oniichan](./.github/screenshots/dark.png)
 
 Reader:
 
