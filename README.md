@@ -1,6 +1,7 @@
 ![banner](./public/img/banner-paddings.png)
 
-# Mango
+# MangꚒꙌꚊ
+РАСТУТ ЕЩЁ РУКИ ОТКУДА НАДО.
 
 [![Patreon](https://img.shields.io/badge/support-patreon-brightgreen?link=https://www.patreon.com/hkalexling)](https://www.patreon.com/hkalexling) ![Build](https://github.com/hkalexling/Mango/workflows/Build/badge.svg) [![Gitter](https://badges.gitter.im/mango-cr/mango.svg)](https://gitter.im/mango-cr/mango?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
