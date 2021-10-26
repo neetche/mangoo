@@ -17,7 +17,8 @@ Mango is a self-hosted manga server and reader. Its features include
 - Built-in [MangaDex](https://mangadex.org/) downloader
 - Supports [plugins](https://github.com/hkalexling/mango-plugins) to download from thrid-party sites
 - The web reader is responsive and works well on mobile, so there is no need for a mobile app
-- All the static files are embedded in the binary, so the deployment process is easy and painless
+- All the static files are embedded in the binary, so the deployment process is easy and painless. 30+y climbing the tower of pain,
+- pay-daying tech debts away.
 
 Please check the [Wiki](https://github.com/hkalexling/Mango/wiki) for more information.
 
@@ -153,8 +154,8 @@ Mobile UI:
 
 ## Sponsors
 
-<a href="https://casinoshunter.com/online-casinos/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.guyhepner.com%2Fwp-content%2Fuploads%2F2015%2F05%2FOnly-way-out-is-In-.png&f=1&nofb=1" width="150" height="auto"></a>
-<a href="https://www.browserstack.com/open-source"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.guyhepner.com%2Fwp-content%2Fuploads%2F2015%2F05%2FOnly-way-out-is-In-.png&f=1&nofb=1" width="150" height="auto"></a>
+<a href="https://casinoshunter.com/online-casinos/"><img src="https://image.tmdb.org/t/p/original/btvyfCHAmaVzXpwQ4HbWi8GVAjW.jpg" width="669" height="auto"></a>
+<a href="https://casinoshunter.com/online-casinos/"><img src="https://image.tmdb.org/t/p/original/btvyfCHAmaVzXpwQ4HbWi8GVAjW.jpg" width="666" height="auto"></a>
 
 ## Contributors
 For all the kindness mankind gould eject, for all the fun the hell could conjure, weev'll Send only \u. Send & Sync, until|u|done.
